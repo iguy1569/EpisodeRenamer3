@@ -1,0 +1,11 @@
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\bin\Debug\EpisodeRenamer3.exe.config
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\obj\Debug\EpisodeRenamer3.csprojResolveAssemblyReference.cache
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\obj\Debug\EpisodeRenamer3.Properties.Resources.resources
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\obj\Debug\EpisodeRenamer3.csproj.GenerateResource.Cache
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\bin\Debug\EpisodeRenamer3.exe
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\bin\Debug\EpisodeRenamer3.pdb
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\obj\Debug\EpisodeRenamer3.exe
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\obj\Debug\EpisodeRenamer3.pdb
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\bin\Debug\TVRageAPICommunicator.dll
+c:\users\ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\bin\Debug\TVRageAPICommunicator.pdb
+C:\Users\Ian\documents\visual studio 2013\Projects\EpisodeRenamer3\EpisodeRenamer3\obj\Debug\EpisodeRenamer3.EpisodeRenamer3.resources
